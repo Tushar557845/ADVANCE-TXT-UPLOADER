@@ -6,7 +6,7 @@
 
 ## 😎 Credit
 
-🥳 Credit Goes To [Tushar](https://t.me/Tushar0125)
+🥳 Credit Goes To [Tushar](https://t.me/newstudent1885)
 
   
 ## 🔥 Commands
@@ -22,12 +22,6 @@
 - **`/sudo remove`**: ❌ remove user or group or channel (owner).
 - **`/userlist`**: 📜 list of sudo user/group/channel.
 - **`/help`**: 🎉 for help.
-
-
-## ✅ Pw,Cp & Appx Without Purchase Txt Extractor Bot
-
-🥳 Pw , Cp & Appx Without Purchase Txt Extractor Bot [Click Here](https://t.me/RealTxtExtractorRoBot)
- 
 
 ## Guide For Heroku Deployment 
 
